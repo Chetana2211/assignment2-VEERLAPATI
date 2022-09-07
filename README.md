@@ -23,3 +23,13 @@ Directions to Reach American jazz Museum:
     * Lincoln college preparatory academy.
 
 **[AboutMe](AboutMe.md)**
+
+---
+
+## PLACES TO VISIT
+|       City        |       Important Location      |       Time to Spend       |
+| ----------------- | ----------------------------- | ------------------------- |
+|    Warangal       |           Bhadrakali Temple   |           1 Day           |
+|    Hyderabad      |           Forum Srujana Mall  |           1 Day           |
+|    Delhi          |           Red Fort            |           2 Days          |
+|    Mumbai         |           Gateway of India    |           2 Days          |
