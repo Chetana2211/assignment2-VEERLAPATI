@@ -33,3 +33,10 @@ Directions to Reach American jazz Museum:
 |    Hyderabad      |           Forum Srujana Mall  |           1 Day           |
 |    Delhi          |           Red Fort            |           2 Days          |
 |    Mumbai         |           Gateway of India    |           2 Days          |
+
+---
+
+## Quotes
+> "The purpose of our lives is to be happy." — *Dalai Lama*
+> 
+> "If you want to live a happy life, tie it to a goal, not to people or things."– *Albert Einstein*
