@@ -40,3 +40,26 @@ Directions to Reach American jazz Museum:
 > "The purpose of our lives is to be happy." — *Dalai Lama*
 > 
 > "If you want to live a happy life, tie it to a goal, not to people or things."– *Albert Einstein*
+
+---
+
+## Code Fencing
+> I was asked to write my own implementation to remove duplicated values in an array. Here is what I have created. But after tests with 1,000,000 elements it took very long time to finish. Is there something that I can do to improve my algorithm or any bugs to remove ?
+<https://stackoverflow.com/questions/17967114/how-to-efficiently-remove-duplicates-from-an-array-without-using-set>
+```
+const array = [1, 1, 1, 3, 3, 2, 2];
+
+// Method 1: Using a Set
+const unique = [...new Set(array)];
+
+// Method 2: Array.prototype.reduce
+const unique = array.reduce((result, element) => {
+  return result.includes(element) ? result : [...result, element];
+}, []);
+
+// Method 3: Array.prototype.filter
+const unique = array.filter((element, index) => {
+  return array.indexOf(element) === index;
+});
+```
+<https://css-tricks.com/snippets/javascript/remove-duplicates-from-an-array/>
